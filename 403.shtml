@@ -1,0 +1,220 @@
+
+<html>
+<head>
+
+	<meta charset="UTF-8">
+	<title>JSQL - Innowacje informatyczne</title>
+
+	<link rel="apple-touch-icon-precomposed" href="favicon.png">
+	<link rel="icon" href="favicon.png">
+	<!--[if IE]><link rel="shortcut icon" href="favicon.ico"><![endif]-->
+	<meta name="msapplication-TileColor" content="#adb">
+	<meta name="msapplication-TileImage" content="favicon.png">
+
+	<meta name="Description" content="Innowacja w zakresie informatyki Spólka JSQL Sp. z.o.o. powstała z myślą o innowacyjnych rozwiązaniach na rynku IT. Dzięki połączeniu wiedzy z zakresu IT i biznesu możliwe jest przeprowadzanie badań informatycznych oraz opracowywanie innowacyjnych produktów IT. DAWID SENKO
+Prezes zarządku spółki JACEK JACOLIK
+Członek zarządu spółki MOŻLIWOŚCI TRANSPOZYCJA WARSTW DANYCH W ARCHITEKTURACH WARSTOWYCH">
+	<meta name="Keywords" content="dawid,senko, jacek, jacolik, innowacja, informatyka, innovation, it, jsql, javascript, sql, angularjs, dawid, senko, jacek, jacolik, transpozycja, warstw, danych, transposition, data, layers">
+
+	<link href="https://fonts.googleapis.com/css?family=Muli:400,600,700,800" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css?t=1" type="text/css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="jquery.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+
+</head>
+<body>
+<div id="header">
+	<div class="clearfix">
+		<a class="logo" href="index.php">
+			<h1>JSQL<span>.</span></h1>
+		</a>
+		<ul class="navigation">
+			<!--            <li>-->
+			<!--                <a href="team.php">Zespół</a>-->
+			<!--            </li>-->
+			<li>
+				<a href="eu-projects.php">Projekty Unijne</a>
+			</li>
+			<li class="submenu-hover">
+				<a href="#">Usługi</a>
+				<ul class="submenu">
+					<li>
+						<a href="services-applications.php">Aplikacje na zamówienie</a>
+					</li>
+					<li>
+						<a href="recruitment-for-it.php">Rekrutacja specjalistów</a>
+					</li>
+					<li>
+						<a href="services-outsourcing.php">Outsourcing programistów</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="experience.php">Doświadczenie</a>
+			</li>
+			<li>
+				<a href="recruitment-for-it.php">Rekrutacja dla IT</a>
+			</li>
+			<li>
+				<a href="announcements.php">Ogłoszenia</a>
+			</li>
+			<li>
+				<span class="phone-top">+48 786 933 336</span>
+			</li>
+			<li>
+				<a href="contact-form.php">Kontakt</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+<div id="background4"></div>
+
+<div class="info-box info-box0 info-box-relative">
+	<div class="featured">
+		<h2>Ogłoszenia</h2>
+		<h1>403 Nieuprawniony dostęp</h1>
+	</div>
+</div>
+
+
+<div id="footer">
+	<div class="clearfix">
+		<div class="section">
+			<h4>O nas</h4>
+			<p>
+				Spólka JSQL Sp. z.o.o. powstała ze wspólnej idei inwestowania i tworzenia innowacyjnych rozwiązań z zakresu IT.
+				Dzięki połączeniu wiedzy technicznej i biznesu możliwe jest odniesienie sukcesu na rynku wewnętrznym jak i międzynarodowym.
+			</p>
+		</div>
+		<div class="section contact">
+			<h4>Adres siedziby</h4>
+			<p>
+				<span>Adres:</span> 70-542 Szczecin ul. Sienna 9
+			</p>
+			<p>
+				<span>Telefon:</span> (+48) 786 933 336
+			</p>
+			<p>
+				<span>Email:</span> biuro@jsql.pl, office@jsql.pl
+			</p>
+		</div>
+		<div class="section">
+			<h4>Media społecznościowe</h4>
+			<p>
+				<a target="_blank" href="https://www.facebook.com/JSQL-143557626351560" class="social"><i class="ion ion-social-facebook"></i></a>
+				<a target="_blank" href="https://www.youtube.com/channel/UCjQ9Ey-2NBkt8z7zoUa7OXw" class="social"><i class="ion ion-social-youtube"></i></a>
+				<a target="_blank" href="https://twitter.com/JsqlSp" class="social"><i class="ion ion-social-twitter"></i></a>
+			</p>
+		</div>
+		<div class="section">
+			<h4>Polityka Cookies</h4>
+			<p>
+				Serwis wykorzystuje pliki cookies. Korzystając ze strony wyrażasz zgodę na wykorzystywanie plików
+				cookies, w zakresie odpowiadającym konfiguracji Twojej przeglądarki.
+			</p>
+		</div>
+	</div>
+	<div class="founds">
+		<img src="images/dotacje2.png">
+	</div>
+	<div id="footnote">
+		<div class="clearfix">
+			<p style="font-size: 0.8rem;">
+				SĄD REJONOWY SZCZECIN-CENTRUM W SZCZECINIE, XIII WYDZIAŁ GOSPODARCZY KRAJOWEGO REJESTRU SĄDOWEGO
+			</p>
+			<p style="font-size: 0.8rem;">
+				Numer KRS: 0000666497, REGON: 366695470, NIP: 8581858437
+			</p>
+			<p style="font-size: 0.8rem;">
+				Kapitał zakładowy: 10 000,00 zł
+				<br>
+				<br>
+			</p>
+			<p>
+				© Copyright 2018 JSQL sp.z.o.o. All Rights Reserved.
+			</p>
+		</div>
+	</div>
+</div>
+<script type="application/javascript">
+
+    var url = window.location.href;
+
+    if (url.indexOf('?error=') > -1) {
+        var error = url.substring(url.indexOf('?'), url.length);
+        error = error.replace('?error=', '');
+
+        document.getElementById('error').style.display = 'block'
+        document.getElementById('error').innerHTML = decodeURIComponent(error);
+
+    } else if (url.indexOf('?sended=') > -1) {
+
+        console.log(document.getElementById('sended').style);
+
+        document.getElementById('sended').style.display = 'block'
+        document.getElementById('sended')
+
+    }
+
+    // Select all links with hashes
+    $('a[href*="#"]')
+    // Remove links that don't actually link to anything
+        .not('[href="#"]')
+        .not('[href="#0"]')
+        .click(function(event) {
+            // On-page links
+            if (
+                location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+                &&
+                location.hostname == this.hostname
+            ) {
+                // Figure out element to scroll to
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                // Does a scroll target exist?
+                if (target.length) {
+                    // Only prevent default if animation is actually gonna happen
+                    event.preventDefault();
+                    $('html, body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000, function() {
+                        // Callback after animation
+                        // Must change focus!
+                        var $target = $(target);
+                        $target.focus();
+                        if ($target.is(":focus")) { // Checking if the target was focused
+                            return false;
+                        } else {
+                            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+                            $target.focus(); // Set focus again
+                        };
+                    });
+                }
+            }
+        });
+
+</script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-97058079-1', 'auto');
+    ga('send', 'pageview');
+
+
+</script>
+</body>
+</html>
